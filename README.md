@@ -1,1 +1,1 @@
-superuser name: hfgunay password: hfg741852963abc.
+superuser name: hfgunay password: 123456abc.
